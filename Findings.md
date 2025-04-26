@@ -70,10 +70,19 @@ Large withdrawals (>1,000 SOL) from presale wallets frequently pass through priv
 - **Presale Address**: `EnSawje2vQSQKtGbPYdXEuYKm2sHgeLKJTqCmrDErKEA`
 - **Total Raised**: 55,000 SOL (~$10.2M at $185/SOL)
 - **Movements**:
-    - 4,200 SOL transferred to Raydium liquidity pool on launch day.
-    - 12,000 SOL sent to an unlabeled wallet in 10 transactions between April 1–5, 2025.
-    - 15,000 SOL withdrawn via Binance deposit address on April 10.
-- **Current Status**: 23,800 SOL remains in presale wallet as of April 25, 2025.
+#### Arkham Transactions
+
+| Transaction Hash | From Address | From Label | To Address | To Label | Token Name | Token Symbol | Unit Value | Historical USD |
+|------------------|--------------|------------|------------|----------|------------|--------------|------------|----------------|
+| bYWPt8ggTwybc2jqfLxunBNoVgaGViUKPUHveoWKwqemTSMzWfxfhRgU6dXU3twD3ysZYTWBy3XdpRgkGyaWfDf | EnSawje2vQSQKtGbPYdXEuYKm2sHgeLKJTqCmrDErKEA | EnSawje2vQSQKtGbPYdXEuYKm2sHgeLKJTqCmrDErKEA | 8qNUJnnJe6beLe1GPpRaw3m9qD7bk2JarJScpqfCdkEH | OKX Deposit (8qNUJ) | Solana | SOL | 43435 | 8034606.3 |
+| 5RmCyxQZg7MzZPjbVHgTEcMff1NiRXppZ9UG1LoyCKBxxPXoeYaRGgKfKkgKSR8t9DbdVPy4ZF72HcKMtMf2zH3X | EnSawje2vQSQKtGbPYdXEuYKm2sHgeLKJTqCmrDErKEA | EnSawje2vQSQKtGbPYdXEuYKm2sHgeLKJTqCmrDErKEA | 8qNUJnnJe6beLe1GPpRaw3m9qD7bk2JarJScpqfCdkEH | OKX Deposit (8qNUJ) | Solana | SOL | 34555 | 4900590.1 |
+| 4FUKUrfaS3tV5Att8HvukwTUoutRwxJgbaCFGTKDzSMWt8neM6SmuyqAi3iEDvTbUq2sCeoVwXH93WvvAR8G6wg5 | EnSawje2vQSQKtGbPYdXEuYKm2sHgeLKJTqCmrDErKEA | EnSawje2vQSQKtGbPYdXEuYKm2sHgeLKJTqCmrDErKEA | 8qNUJnnJe6beLe1GPpRaw3m9qD7bk2JarJScpqfCdkEH | OKX Deposit (8qNUJ) | Solana | SOL | 18403 | 3298185.66 |
+| 5PwD3BXfgCgqVxmoVu2Kob7E4nujQFtmaUtMpuR6bpZdmytF6BCaxFLFh6bEfS3eXPBwophNpK6NBUK7QS8ASRTt | EnSawje2vQSQKtGbPYdXEuYKm2sHgeLKJTqCmrDErKEA | EnSawje2vQSQKtGbPYdXEuYKm2sHgeLKJTqCmrDErKEA | 8qNUJnnJe6beLe1GPpRaw3m9qD7bk2JarJScpqfCdkEH | OKX Deposit (8qNUJ) | Solana | SOL | 19816.92 | 2510606.22 |
+| 5KSSgWWhyQAQWCMfVU8sE7DH4AGByWrhTJUm2sWM48gDkGviNkopCZxsqgU8R9JaC78d4PPjPtZUmRaj819JQ1uT | EnSawje2vQSQKtGbPYdXEuYKm2sHgeLKJTqCmrDErKEA | EnSawje2vQSQKtGbPYdXEuYKm2sHgeLKJTqCmrDErKEA | 8qNUJnnJe6beLe1GPpRaw3m9qD7bk2JarJScpqfCdkEH | OKX Deposit (8qNUJ) | Solana | SOL | 18990 | 2405843.1 |
+
+I chose to focus on outgoing transactions from the presale address to the OKX exchange. These transactions started as soon as the presale started. In a nut shell, these are transactions filtered by Arkham reflect significant movements of SOL tokens to an unmarked deposit address on the OKX exchange, with values ranging from approximately 18,403 to 43,435 SOL, translating to substantial USD amounts.
+
+- **Current Status**: 2.1173 SOL ($319.86) remains in presale wallet as of April 25, 2025. It however contains other assets, including 174,953,085.33 Slothana (SLOTH) ($733,622.47). The token has 23,914 holders.
 
 
 ### 2. **Grumpy Cat ($GRUMP)**
@@ -139,9 +148,10 @@ Large withdrawals (>1,000 SOL) from presale wallets frequently pass through priv
 
 ## Tools for Independent Verification
 
-1. **Solscan**: Track real-time transactions for any Solana address.
-2. **DeFiLlama**: Monitor liquidity pool balances and withdrawals.
-3. **CEX Transparency Reports**: Cross-reference large deposits with exchange announcements.
+1. **The Arkham Intelligence Platform** Token analysis, exchange, and information platform
+2. **Solscan**: Track real-time transactions for any Solana address.
+3. **DeFiLlama**: Monitor liquidity pool balances and withdrawals.
+4. **CEX Transparency Reports**: Cross-reference large deposits with exchange announcements.
 
 This analysis underscores the high-risk nature of direct-transfer ICOs, where fund trajectories often diverge from project roadmaps. While blockchain's public ledger enables partial auditing, intentional obfuscation tactics limit accountability.
 
@@ -247,7 +257,7 @@ Only RatWifHat and Grumpy Cat completed PinkSale KYC, leaving other projects' te
 | Grumpy Cat | 16.15 | -98% | None | Low |
 | Crab | 3,892 | -92% | Partial | Low |
 | RatWifHat | 56.23 (refunded) | -98.7% | None | None |
-| Faith Protocol | 847 | Stagnant | Minimal | Low |
+
 
 ---
 
@@ -324,7 +334,6 @@ The analyzed Solana-based ICOs-Slothana ($SLOTH), Grumpy Cat ($GRUMPY), Crab Fin
 | Grumpy Cat | $23,254 | $142,770 | None |
 | Crab | $111 | $25,762 | KuCoin (partial) |
 | RatWifHat | -- | -- | MEXC (inactive) |
-| Faith Protocol | Negligible | $25,760 | MEXC |
 
 ### Key Observations
 
@@ -358,8 +367,6 @@ The analyzed Solana-based ICOs-Slothana ($SLOTH), Grumpy Cat ($GRUMPY), Crab Fin
 
 | Metric | Slothana | Grumpy Cat | Crab | RatWifHat | Faith Protocol |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Peak ROI (from ICO) | +216% | +1,163% | +34.5% | N/A (canceled) | Stagnant |
-| Current ROI | -80.5% | -97.3% | -92% | -98.7% | -100% |
 | Liquidity Risk Score | Moderate | High | Extreme | Extreme | High |
 | Exchange Dependency | High (3 CEXs) | None | Low (1 CEX) | None | Low (1 CEX) |
 
