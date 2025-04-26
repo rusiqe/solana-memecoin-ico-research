@@ -8,7 +8,7 @@ This paper analyzes **eight Solana ICOs promoted via X (Twitter)** that required
 ## Methodology
 The research for this paper was conducted using the Arkham Intelligence platform and on-chain analytics via Solscan. A lot of tabs were concurrently open, and it was a challenge to keep track of all the different projects and wallets. The visualizations and summaries provided by Arkham Intelligence were extremely helpful in this regard.
 
-![Sample visualization on Arkham Platform](https://imgur.com/snS41o1)
+![Sample visualization on Arkham Platform](./memes/Screenshot%202025-04-26%20at%2020.54.47.png)
 
 The result is the culmination of separate volumes of research on each target project, with data collection, fund tracking analysis, investor empathy commentary, "red flag" identification, and a slew of prescriptions to help protect investors and the crypto ecosystem at large from predatory social media-hyped token ICOs.
 
