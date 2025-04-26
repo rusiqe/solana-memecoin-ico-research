@@ -4,12 +4,6 @@ This document contains all the links and references used for the project researc
 
 ## Sources
 
-- [Link 1](http://example.com)
-- [Link 2](http://example.com)
-- [Link 3](http://example.com)
-
-## Additional Sources
-
 - [99bitcoins.com favicon](http://99bitcoins.com)
 - [7 Best Solana Presales To Invest In 2024](http://99bitcoins.com/cryptocurrency)
 - [Best Solana Tokens Presales and Top ICOs in 2025 - 99Bitcoins](http://99bitcoins.com/cryptocurrency)
@@ -124,4 +118,3 @@ This document contains all the links and references used for the project researc
 - [Grumpy Cat NFT Sold for $83.000 on Foundation | PlayToEarn](http://playtoearn.com/news/grumpy-cat)
 - [Crab Market Report | Industry Analysis, Size & Forecast](http://mordorintelligence.com/industry-reports/crab-market)
 
-Add more links as needed. 
