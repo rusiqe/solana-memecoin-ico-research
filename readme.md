@@ -8,7 +8,9 @@ This paper analyzes **eight Solana ICOs promoted via X (Twitter)** that required
 ## Methodology
 The research for this paper was conducted using the Arkham Intelligence platform and on-chain analytics via Solscan. A lot of tabs were concurrently open, and it was a challenge to keep track of all the different projects and wallets. The visualizations and summaries provided by Arkham Intelligence were extremely helpful in this regard.
 
-The result is the culmination of separate volumes of research on each target project, with data collection, fund tracking analysis, investor empathy commentary, "red flag" identification, and a slew of presctiptions to help protect investors and the crypto ecosystem at large from predetory social media-hyped token ICOs.
+![Sample visualization on Arkham Platform](https://imgur.com/snS41o1)
+
+The result is the culmination of separate volumes of research on each target project, with data collection, fund tracking analysis, investor empathy commentary, "red flag" identification, and a slew of prescriptions to help protect investors and the crypto ecosystem at large from predatory social media-hyped token ICOs.
 
 Let's jump right in!!
 
@@ -29,7 +31,7 @@ I broke the research into two sections, the first section being the core case st
 
 ![Slothana Presale Announcement](https://imgur.com/a/i1ze3AB)
 
-There were no early investor discounts, and the process was straightforward: send SOL, receive tokens after the presale ends. As can be gleaned from the image above, the presale did get traction. However, from the onset, a lot of the funds were moved to a mixer wallet (EnSawje2vQSQKtGbPYdXEuYKm2sHgeLKJTqCmrDErKEA). This marked the begining of doubt about the project's legitimacy. 
+There were no early investor discounts, and the process was straightforward: send SOL, receive tokens after the presale ends. As can be gleaned from the image above, the presale did get traction. However, from the onset, a lot of the funds were moved to a mixer wallet (EnSawje2vQSQKtGbPYdXEuYKm2sHgeLKJTqCmrDErKEA). This marked the beginning of doubt about the project's legitimacy. 
 
 **Grumpy Cat**: Another meme-themed Solana ICO, Grumpy Cat, also utilized X for promotion (with over 2,000 followers). The presale had a maximum investment cap of 5 SOL per participant to ensure fair distribution. 
 
@@ -104,20 +106,21 @@ Belonging to a community is seldom the end goal in mind for most investors, retu
 ### Determining Financial Outcomes
 
 | Metric | Slothana | Grumpy Cat | Crab | RatWifHat |
-| :-- | :-- | :-- | :-- | :-- | :-- |
+| ------ | -------- | ---------- | ---- | --------- | 
 | Liquidity Risk Score | Moderate | High | Extreme | Extreme |
 | Exchange Dependency | High (3 CEXs) | None | Low (1 CEX) | None |
 
-Tracking the wallets connected to transactions for each of our core study tokens reveals moderate to extremely high liquidity risk scores. Paired with confirmed exchance (central) dependency, buyers with this information at hand would think twice to invest as the potential for rug pull events seems almost certain. 
+Tracking the wallets connected to transactions for each of our core study tokens reveals moderate to extremely high liquidity risk scores. Paired with confirmed exchange (central) dependency, buyers with this information at hand would think twice to invest as the potential for rug pull events seems almost certain. 
 
 ---
 
 ## Section 2: Bounty Cases as Systemic Confirmation  
-Because the projects above tend to gravitate towards a conclusive outcome, it makes sense to analyze and compare them to those already deemed perillous to invest in by the scppe of the bounty. To this end, I looked into the four ($BOME, $SMOLE, $GM, $SLERF) with the same lense and thinking process. 
+Because the projects above tend to gravitate towards a conclusive outcome, it makes sense to analyze and compare them to those already deemed perilous to invest in by the scope of the bounty. To this end, I looked into the four ($BOME, $SMOLE, $GM, $SLERF) with the same lens and thinking process. 
 
 ### 2.1 **Comparative Fund Flows*
 
-| Project       | SOL Raised | Current Balance | Arkham Risk Score | Outcome                    |  ---------------|------------|-----------------|-------------------|----------------------------|  
+| Project       | SOL Raised | Current Balance | Arkham Risk Score | Outcome       
+|---------------|------------|-----------------|-------------------|----------------------------|  
 | $BOME         | 10,131     | 9.37 SOL        | 68/100            | Initial 21,566% gain → -98.4% |  
 | $SMOLE        | 169,982    | 0.046 SOL       | 92/100            | -99.9% (Class-action suit) |  
 | $GM           | ~160,000   | 0.805 SOL       | 84/100            | AI SDK never released      |  
@@ -127,10 +130,10 @@ Because the projects above tend to gravitate towards a conclusive outcome, it ma
 Immediately, the Arkham analysis results for all projects revealed the following trends.
 
 - **Mixer Usage**: 38% of all analyzed SOL withdrawals passed through Saber/Mayan bridges (vs. 23% in original 5)  
-- **CEX Arbitrage**: $GM moved 89% of funds to exchanges vs. Slothana’s 27.3%  
+- **CEX Arbitrage**: $GM moved 89% of funds to exchanges vs. Slothana's 27.3%  
 - **ROI Collapse**: Bounty projects showed faster crashes (-99.9% in 45 days for $SMOLE vs. -97.3% in 6 months for Grumpy Cat)  
 
-How quick the project crashes can be speculated to the original intent of the creator, along with how well they would have reached their goal investment before rugging. 
+You will notice that each project crashes at different stages from announcement. How quickly the token rugs can be speculated to the original intent of the creator, along with how well they would have reached their goal investment before hitting "eject". 
 
 ![The Rug Connondrum](./memes/Dumping_meme.webp)
 
@@ -139,34 +142,38 @@ What stands though, is that they eventually fizzle out of existence. If or not t
 ---
 
 ## Section 3: Cross-Project Analysis  
+Comparing the target group of projects against the sample size given on brief, several findings surface with some sort of correlation. For one, each rag pull has a signature behavior exhibited by underlying teams, who are most just profile pictures of the same mints they're selling. Secondly, the narrative feels like you're watching a re-run of that poorly scripted movie series. You know what's going to happen, you just hope this time you're wrong.
+
+To note but a few, the following subsections discuss the findings when comparing tokens discussed so far.
 
 ### 3.1 **Common Failure Mechanisms**  
 1. **Opaque Liquidity Management**  
-   - Slothana: 15,000 SOL to Binance vs. $SMOLE’s 85,000 SOL to HTX  
-   - Crab: Early LP unlock vs. $GM’s unreleased SDK  
+   - Slothana: 15,000 SOL to Binance vs. $SMOLE's 85,000 SOL to HTX  
+   - Crab: Early LP unlock vs. $GM's unreleased SDK  
 
 2. **Narrative Exploitation**  
-   - Memes: Slothana’s "Lambo" tweets vs. $BOME’s "decentralized art" fiction  
-   - Technical Hype: Faith’s "AI ecosystem" vs. $GM’s abandoned SDK  
+   - Memes: Slothana's "Lambo" tweets vs. $BOME's "decentralized art" fiction  
+   - Technical Hype: Faith's "AI ecosystem" vs. $GM's abandoned SDK  
 
 3. **Regulatory Arbitrage**  
    - 7/9 projects avoided KYC (only RatWifHat and $SLERF attempted verification)  
 
 ### 3.2 **Arkham Intelligence Revelations**  
-- **Entity Clustering**: Linked Slothana’s Panamanian OTC desk to $SMOLE’s HTX withdrawals  
-- **Pattern Recognition**: 82% match between Grumpy Cat’s wallet activity and $GM’s collapse phase  
+- **Entity Clustering**: Linked Slothana's Panamanian OTC desk to $SMOLE's HTX withdrawals  
+- **Pattern Recognition**: 82% match between Grumpy Cat's wallet activity and $GM's collapse phase  
 - **Risk Scoring**: Average Arkham score of 81/100 across all 9 projects ("Extreme Risk" threshold: 75+)  
 
 ---
 
 ## Section 4: Market-Wide Implications  
+Besides the loss in capital on the part of every bandwagon hopper, the Solana network bears a heavy burden when actors activate their rug pull strategies. The network throughput suffers due to their rush to cash out, while more potential onboards delay - or worse decline taking up Solana as their blockchain of choice.
 
 ### 4.1 **Network Impact**  
-- **Congestion**: $SMOLE’s 169k TXNs caused 14-hour Solana outage (March 2024)  
+- **Congestion**: $SMOLE's 169k TXNs caused 14-hour Solana outage (March 2024)  
 - **Reputation Damage**: 73% decline in "serious" Solana ICOs post-$SLERF burn incident  
 
 ### 4.2 **Investor Psychology**  
-Looking at each of the token's we've analysed social media profiles long enough brings to surface some interesting discoveries. Followers,(read investors) often have fewer tools and time depth (history) to analyse an offering before throeing in thd big bags.The following trends show up acrsodd all assets: 
+Looking at each of the token's social media profiles long enough brings to surface some interesting discoveries. Followers, (read investors) often have fewer tools and time depth (history) to analyze an offering before going ape. The following trends show up across all assets: 
 
 1. **Social Proof Bias**
    - Twitter follower counts and engagement metrics create false legitimacy
@@ -179,7 +186,7 @@ Looking at each of the token's we've analysed social media profiles long enough 
    - "This time it's different" rationalization despite red flags
 
 3. **Loss Aversion Paralysis**
-   - Holders refuse to sell at small losses, leading to catastrophic drawdowns
+   - Holders refuse to sell at small losses, leading to catastrophic draw downs
    - "Diamond hands" culture discourages rational profit-taking
    - Sunk cost fallacy keeps investors averaging down into failing projects (buying the dip!)
 
@@ -193,20 +200,21 @@ Looking at each of the token's we've analysed social media profiles long enough 
    - Social media engagement rewards risky behavior
    - Community belonging prioritized over financial prudence
 
-- **FOMO Cycle**: $BOME’s 21,566% ATH drove 2024’s "Meme Summer" → 2025’s -93.4% median ROI  
-- **Liquidity Illusion**: Slothana’s $843K liquidity pool vs. $581K 24h volume (69% depth risk)  
+- **FOMO Cycle**: $BOME's 21,566% ATH drove 2024's "Meme Summer" → 2025's -93.4% median ROI  
+- **Liquidity Illusion**: Slothana's $843K liquidity pool vs. $581K 24h volume (69% depth risk)  
 
 ---
 
-## Section 5: Prescriptive Solutions  
+## Section 5: Prescriptive Solutions 
+While discovering such projects is the first step to building a safe environment for investment, some action need be taken to make it hard for meme tokenomics based losses.
 
 ### 5.1 **For Investors**  
-- **Arkham Alerts**: Monitor "Entity Withdrawal" tags (e.g., Crab’s KR_Arb_7 cluster)  
+- **Arkham Alerts**: Monitor "Entity Withdrawal" tags (e.g., Crab's KR_Arb_7 cluster)  
 - **Liquidity Audits**: Demand CertiK/PinkSale verification pre-investment  
 
 ### 5.2 **For Developers**  
-- **Transparency Pools**: Mirror $SLERF’s post-burn transparency (0% team allocation)  
-- **Staged Releases**: Avoid $GM’s "all-in" CEX listings without MVP  
+- **Transparency Pools**: Mirror $SLERF's post-burn transparency (0% team allocation)  
+- **Staged Releases**: Avoid $GM's "all-in" CEX listings without MVP  
 
 ### 5.3 **For Regulators**  
 - **Arkham Integration**: Adopt AI-driven wallet tracking for SEC v. SMOLE-style cases  
@@ -215,7 +223,7 @@ Looking at each of the token's we've analysed social media profiles long enough 
 ---
 
 ## Conclusion: The Solana Social ICO Trap  
-These nine projects reveal a self-reinforcing cycle of viral hype and financial ruin. While Slothana and $BOME temporarily enriched early holders, their collapses (-80.5% and -98.4% respectively) underscore the unsustainability of social media-driven tokenomics. Arkham’s forensic tools prove critical in detecting risks pre-collapse – 92/100 risk scores flagged $SMOLE’s $28M fraud 11 days pre-implosion. For Solana to mature, ecosystem stakeholders must prioritize transparency over virality.  
+These nine projects reveal a self-reinforcing cycle of viral hype and financial ruin. While Slothana and $BOME temporarily enriched early holders, their collapses (-80.5% and -98.4% respectively) underscore the sustainability of social media-driven tokenomics. Arkham's forensic tools prove critical in detecting risks pre-collapse – 92/100 risk scores flagged $SMOLE's $28M fraud 11 days pre-implosion. For Solana to mature, ecosystem stakeholders must prioritize transparency over virility.  
 
 **Citations**  
 [1] Arkham Entity Labels (2025)  
