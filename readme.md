@@ -29,25 +29,25 @@ I broke the research into two sections, the first section being the core case st
 
 **Slothana**: This meme coin project was heavily promoted on X, boasting over 20,000 followers and raising more than $10 million. The presale required investors to send SOL directly to a presale wallet address (EnSawje2vQSQKtGbPYdXEuYKm2sHgeLKJTqCmrDErKEA), with a fixed rate of 1 SOL for 10,000 SLOTH tokens.
 
-![Slothana Presale Announcement](https://imgur.com/a/i1ze3AB)
+![Slothana Presale Announcement](./memes/Screenshot%202025-04-26%20at%2005.41.37.png)
 
 There were no early investor discounts, and the process was straightforward: send SOL, receive tokens after the presale ends. As can be gleaned from the image above, the presale did get traction. However, from the onset, a lot of the funds were moved to a mixer wallet (EnSawje2vQSQKtGbPYdXEuYKm2sHgeLKJTqCmrDErKEA). This marked the beginning of doubt about the project's legitimacy. 
 
 **Grumpy Cat**: Another meme-themed Solana ICO, Grumpy Cat, also utilized X for promotion (with over 2,000 followers). The presale had a maximum investment cap of 5 SOL per participant to ensure fair distribution. 
 
-![Grumpy Cat Presale Announcement](https://imgur.com/dPPzJid)
+![Grumpy Cat Presale Announcement](./memes/Screenshot%202025-04-26%20at%2005.56.49.png)
 
 Investors sent SOL to a specified address(BRkQUb1rMAgLS18cp9iw3jZfePADV97jW7oxMVD4VFRt), and tokens were distributed just before the exchange launch. Early investors received bonus tokens based on their wallet's position in the queue.
 
 **Crab**: This community-driven project, with over 42,000 followers on X, ran a presale with a 5,000 SOL hard cap. While the exact mechanics are not detailed, it followed the common Solana presale model where participants send SOL directly to a provided address (3yHMXJjjvwSFKZqjc7S1AFa3NeguKZ3jScWWm7U1BH9w).
 
-![Crab Presale Announcement](https://imgur.com/SVmOq9G)
+![Crab Presale Announcement](./memes/Screenshot%202025-04-26%20at%2006.28.30.png)
 
 The Crab project pretty much hinged on social media hype to attract the investors from its follower base. 
 
 **Ratwifhat ($RWH)**: Inspired by the Dogwifhat meme, Ratwifhat ran a Solana ICO that accepted SOL as payment. The presale was promoted via social channels, including X, and required sending SOL (6zpbdxceAxRaQrUFERyPJGHm8dq5nz7sVgQJufeB24zx) to participate and receive the project's tokens.
 
-![Ratwifhat Presale Announcement](https://imgur.com/oA2Bseq)
+![Ratwifhat Presale Announcement](./memes/Screenshot%202025-04-26%20at%2006.07.36.png)
 
 
 ### 1.1 **Fund Tracking**  
